@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\source\repos\FractalsDrawer\bin\Debug\netcoreapp3.1\FractalsDrawer.exe
+C:\Users\Дмитрий\source\repos\FractalsDrawer\bin\Debug\netcoreapp3.1\FractalsDrawer.deps.json
+C:\Users\Дмитрий\source\repos\FractalsDrawer\bin\Debug\netcoreapp3.1\FractalsDrawer.runtimeconfig.json
+C:\Users\Дмитрий\source\repos\FractalsDrawer\bin\Debug\netcoreapp3.1\FractalsDrawer.runtimeconfig.dev.json
+C:\Users\Дмитрий\source\repos\FractalsDrawer\bin\Debug\netcoreapp3.1\FractalsDrawer.dll
+C:\Users\Дмитрий\source\repos\FractalsDrawer\bin\Debug\netcoreapp3.1\FractalsDrawer.pdb
+C:\Users\Дмитрий\source\repos\FractalsDrawer\obj\Debug\netcoreapp3.1\FractalsDrawer.csprojAssemblyReference.cache
+C:\Users\Дмитрий\source\repos\FractalsDrawer\obj\Debug\netcoreapp3.1\FractalsDrawer.Form1.resources
+C:\Users\Дмитрий\source\repos\FractalsDrawer\obj\Debug\netcoreapp3.1\FractalsDrawer.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\FractalsDrawer\obj\Debug\netcoreapp3.1\FractalsDrawer.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\FractalsDrawer\obj\Debug\netcoreapp3.1\FractalsDrawer.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\FractalsDrawer\obj\Debug\netcoreapp3.1\FractalsDrawer.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\FractalsDrawer\obj\Debug\netcoreapp3.1\FractalsDrawer.dll
+C:\Users\Дмитрий\source\repos\FractalsDrawer\obj\Debug\netcoreapp3.1\FractalsDrawer.pdb
+C:\Users\Дмитрий\source\repos\FractalsDrawer\obj\Debug\netcoreapp3.1\FractalsDrawer.genruntimeconfig.cache
